@@ -1,2 +1,2 @@
-# IBM-Mainframe-Contest-2018
-Master the Mainframe 2018
+# IBM-Mainframe Competition
+Master the Mainframe 
