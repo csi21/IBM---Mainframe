@@ -1,2 +1,3 @@
 # IBM-Mainframe Competition
-Master the Mainframe 
+objective: knowledge and experience with details of z/OS.
+
