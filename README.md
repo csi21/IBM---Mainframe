@@ -11,3 +11,47 @@ objective: knowledge and experience with details of z/OS.
 - Part 2 - Challenge #07: Use JCL SORT to allocate an output data set with specific attributes; 
 - Part 2 - Challenge #08: view and modify EBCDIC and ASCII hexadecimal values
 
+#Master the Mainframe 2018 Challenge Framework 
+Contest officially ends on December 31, 2018 at midnight.
+
+Contest has 3 Parts
+
+Part 1 (Less than 1 hour)
+  --Logon to z/OS
+  --Introduction to ISPF, Data Sets,and Unix Files
+  --No experience necessary, follow instructions literally
+Part 2 (Less than 1 week)
+  --z/OS Fundamentals and Basics
+  --1st 200 to complete with 100% accuracy are prize winners
+  --All subsequent completions with 100% accuracy are listed on the Wall of Fame
+Part 3 (More than 1 week and complete before December 31)
+  --
+  --z/OS Utility Programs and Common Program Languages
+  --NOT a race, complete as time permits
+  --Challenge scoring and prize winner selection done after December 31
+Part 3 prize winner selection is based upon the following criteria:
+  All Part 3 challenges completed
+  Point count for Part 3 challenges excluding last challenge
+  Point count for Part 3 last challenge based upon creativity beyond minimum requirements
+  Completing Part 2 with 100% accuracy is not a requirement to be a Part 3 prize winner.
+  However, in the event of a Part 3 point tie, Part 2 performance is used to break a tie
+Part 1 Challenges
+
+Logon to TSO and work with data sets and unix files
+  Install TN3270 software on your workstation
+  Use TN3270 software to connect to z/OS
+Part 2 Challenges
+
+ISPF
+ISPF Editor
+SDSF
+JCL
+JCL Data Definition Statement
+Just a Bit, Hexadecimal, EBCDIC, ASCII, and Packed Decimal
+Data, Data Sets, and Unix Files
+Copy Data Using IDCAMS System Utility
+Create JCL to Delete Data Sets
+JCL and Unix Files
+DB2 SQL
+Number Hunt
+
