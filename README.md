@@ -10,6 +10,7 @@ objective: knowledge and experience with details of z/OS.
 - Part 2 - Challenge #06: Edit, modify, and submit JCL using different SORT control input; 
 - Part 2 - Challenge #07: Use JCL SORT to allocate an output data set with specific attributes; 
 - Part 2 - Challenge #08: view and modify EBCDIC and ASCII hexadecimal values
+- Part 2 - Challenge #09: allocate 7 unique z/OS data set types
 
 # Master the Mainframe 2018 Challenge Framework 
 Contest officially ends on December 31, 2018 at midnight.
