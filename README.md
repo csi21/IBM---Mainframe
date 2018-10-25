@@ -12,6 +12,7 @@ objective: knowledge and experience with details of z/OS.
 - Part 2 - Challenge #08: view and modify EBCDIC and ASCII hexadecimal values
 - Part 2 - Challenge #09: allocate 7 unique z/OS data set types
 - Part 2 - Challenge #10: copy data using IDCAMS into various data set types
+- Part 2 - Challenge #11: Create JCL to Delete Data Sets
 
 # Master the Mainframe 2018 Challenge Framework 
 Contest officially ends on December 31, 2018 at midnight.
