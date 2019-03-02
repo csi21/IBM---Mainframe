@@ -29,6 +29,7 @@ The competition finished in early January...However you can still work towards P
 - Part 3 - Challenge #04: Application Development using COBOL
 - Part 3 - Challenge #05: Application Development Support 
 - Part 3 - Challenge #06: Local Client Record in VSAM
+- Part 3 - Challenge #07: DB2 for z/OS
 
 
 
