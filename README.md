@@ -24,8 +24,8 @@ My 1st Badge can be found here: https://www.youracclaim.com/badges/0c7e91fc-b1d5
 The competition finished in early January...However you can still work towards Part-3 and get the part -3 badge.
 
 - Part 3 - Challenge #01: Copy lines from P2.OUTPUT(#01) and paste the information in P3.OUTPUT(#01). Then delete all country lines but your country. you should have two lines at the end! 
-- Part 3 - Challenge #02:
-- Part 3 - Challenge #03:
+- Part 3 - Challenge #02: SORT Utility Capabilities
+- Part 3 - Challenge #03: Sort Utility Capabilities Continued
 - Part 3 - Challenge #04: Application Development using COBOL
 - Part 3 - Challenge #05: Application Development Support 
 - Part 3 - Challenge #06: Local Client Record in VSAM
