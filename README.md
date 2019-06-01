@@ -36,8 +36,8 @@ The competition finished in early January...However you can still work towards P
 This challenge was tricky...the instructions are as follow:
 > identify every invalid packed decimal record found within 10,000 records ZOS.MTM2018.PUBLIC.PACKED has 10,000 records. Each record is a single packed decimal field starting in column 1 with a record length of 11 bytes. Several of the packed decimal records in ZOS.MTM2018.PUBLIC.PACKED are invalid. Your challenge is to write a report to P3.OUTPUT(#10) identifying every invalid packed decimal record found in ZOS.MTM2018.PUBLIC.PACKED data set.
 
-- Part 3 - Challenge #11: IBM Z Mainframe Supports 5 Unique Operating Systems
-- Part 3 - Challenge #12:
+- Part 3 - Challenge #11: Run C Fun
+- Part 3 - Challenge #12:IBM Z Mainframe Supports 5 Unique Operating Systems
 
 
 
