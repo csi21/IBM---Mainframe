@@ -33,7 +33,7 @@ The competition finished in early January...However you can still work towards P
 - Part 3 - Challenge #08: Java and DB2 API, Application Program Interface. 
 - Part 3 - Challenge #09: COBOL and DB2 API, Application Program Interface
 - Part 3 - Challenge #10: Locating Invalid Packed Decimal Data
-This challenge was tricky...the goal was to:
+This challenge was tricky...the instructions are as follow:
 > identify every invalid packed decimal record found within 10,000 records ZOS.MTM2018.PUBLIC.PACKED has 10,000 records. Each record is a single packed decimal field starting in column 1 with a record length of 11 bytes. Several of the packed decimal records in ZOS.MTM2018.PUBLIC.PACKED are invalid. Your challenge is to write a report to P3.OUTPUT(#10) identifying every invalid packed decimal record found in ZOS.MTM2018.PUBLIC.PACKED data set.
 
 
