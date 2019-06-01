@@ -30,8 +30,10 @@ The competition finished in early January...However you can still work towards P
 - Part 3 - Challenge #05: Application Development Support 
 - Part 3 - Challenge #06: Local Client Record in VSAM
 - Part 3 - Challenge #07: DB2 for z/OS
-- Part 3 - Challenge #08: Java and DB2 API, Application Program Interface. Recognise Java code, Compile Java code, Execute Java code
+- Part 3 - Challenge #08: Java and DB2 API, Application Program Interface. 
 - Part 3 - Challenge #09: COBOL and DB2 API, Application Program Interface
+- Part 3 - Challenge #10: Locating Invalid Packed Decimal Data
+
 
 
 
